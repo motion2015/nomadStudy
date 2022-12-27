@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/nomadStudy/static/js/main.b8f6f346.js",
+    "main.css": "/nomadStudy/static/css/main.a12c5022.css",
+    "main.js": "/nomadStudy/static/js/main.8dd20e37.js",
     "index.html": "/nomadStudy/index.html",
-    "main.b8f6f346.js.map": "/nomadStudy/static/js/main.b8f6f346.js.map"
+    "main.a12c5022.css.map": "/nomadStudy/static/css/main.a12c5022.css.map",
+    "main.8dd20e37.js.map": "/nomadStudy/static/js/main.8dd20e37.js.map"
   },
   "entrypoints": [
-    "static/js/main.b8f6f346.js"
+    "static/css/main.a12c5022.css",
+    "static/js/main.8dd20e37.js"
   ]
 }
